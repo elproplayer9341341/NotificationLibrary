@@ -26,8 +26,8 @@ function NewNotification(text, desc, action1text, fun)
     TextLabel.BackgroundTransparency = 1.000
     TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
     TextLabel.BorderSizePixel = 0
-    TextLabel.Position = UDim2.new(0.022, 0,0.331, 0)
-    TextLabel.Size = UDim2.new(0, 297,0, 53)
+    TextLabel.Position = UDim2.new(0.178, 0,0.026, 0)
+    TextLabel.Size = UDim2.new(0.022, 0,0.331, 0)
     TextLabel.Font = Enum.Font.FredokaOne
     TextLabel.Text = text
     TextLabel.TextColor3 = Color3.fromRGB(253, 253, 253)
